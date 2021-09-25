@@ -9,4 +9,4 @@ In this project, there are 2 main tasks that I will carry out.
 
 In the first task, I will extract data from a very large number of semi-structured text files, each contains thousand of tweets related to Covid19. Then I will transform the extracted data into XML format, following some pre-specified standards.
 
-In the second task, it involves text pre-processing, in particular, preprocess a large amount of tweets and convert them into numerical representations (which are suitable for input into recommender-systems/ information-retrieval algorithms)
+In the second task, it involves text pre-processing, in particular, preprocess a large amount of tweets and convert them into numerical representations (which are suitable for input into recommender-systems/ information-retrieval algorithms). Some of the steps involved are tokenization, stemming, create collocation using PMI measures.
